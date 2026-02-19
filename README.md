@@ -17,7 +17,7 @@ It analyzes sales, profit, categories, and regional performance.
 - Regional sales comparison
 
 ## 🔹 Dashboard Preview
-(Upload screenshot image here)
+![Sales Dashboard Screenshot](https://raw.githubusercontent.com/aasthakansal47/E-Commerce-Sales-Dashboard/main/Screenshot%202026-02-19%20111329.png)
 
 ## 🔹 Author
 Aastha Kansal
